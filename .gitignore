@@ -1,1 +1,4 @@
 .DS_Store
+/.vs
+API/Properties/launchSettings.json
+API/Properties/launchSettings.json
